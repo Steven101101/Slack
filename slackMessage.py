@@ -2,7 +2,7 @@ import pygame
 import slack
 import time
 
-client = slack.WebClient(token="xoxb-5185067800342-5204317570273-a77DalTBoNQtdP6fDq4YBQlV")
+client = slack.WebClient(token="")
 
 conversation_id = "C055F1ZQ71C"
 
